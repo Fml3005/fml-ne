@@ -7,6 +7,11 @@ from gui import MainWindow
 def main():
     root = tk.Tk()
     root.title("Separador de Notas de Empenho")
+    
+    # Maximiza a janela
+    root.state('zoomed')
+    root.configure(bg='#1e1e1e')
+    
     app = MainWindow(root)
     root.mainloop()
 
