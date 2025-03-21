@@ -1,0 +1,1138 @@
+2025-03-21 17:16:41,721 - INFO - Iniciando o processamento do PDF: D:/ne/NE ADM/ADM-03-separado.pdf
+2025-03-21 17:16:41,724 - INFO - Total de páginas no PDF: 860
+2025-03-21 17:16:41,739 - DEBUG - Processando página 1/860
+2025-03-21 17:16:41,740 - INFO - Nota de Empenho detectada na página 1: 6020004
+2025-03-21 17:16:41,742 - DEBUG - Processando página 2/860
+2025-03-21 17:16:41,743 - DEBUG - Página 2 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:41,745 - DEBUG - Processando página 3/860
+2025-03-21 17:16:41,745 - DEBUG - Processando página 4/860
+2025-03-21 17:16:41,746 - DEBUG - Processando página 5/860
+2025-03-21 17:16:41,766 - INFO - Nota de Empenho detectada na página 5: 7020010
+2025-03-21 17:16:41,771 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE6020004.pdf
+2025-03-21 17:16:41,773 - DEBUG - Processando página 6/860
+2025-03-21 17:16:41,774 - DEBUG - Página 6 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:41,776 - DEBUG - Processando página 7/860
+2025-03-21 17:16:41,777 - DEBUG - Processando página 8/860
+2025-03-21 17:16:41,778 - DEBUG - Processando página 9/860
+2025-03-21 17:16:41,779 - INFO - Nota de Empenho detectada na página 9: 7020012
+2025-03-21 17:16:41,780 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE7020010.pdf
+2025-03-21 17:16:41,781 - DEBUG - Processando página 10/860
+2025-03-21 17:16:41,782 - DEBUG - Página 10 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:41,783 - DEBUG - Processando página 11/860
+2025-03-21 17:16:41,784 - DEBUG - Processando página 12/860
+2025-03-21 17:16:41,785 - DEBUG - Processando página 13/860
+2025-03-21 17:16:41,786 - INFO - Nota de Empenho detectada na página 13: 1020009
+2025-03-21 17:16:41,787 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE7020012.pdf
+2025-03-21 17:16:41,788 - DEBUG - Processando página 14/860
+2025-03-21 17:16:41,789 - DEBUG - Página 14 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:41,790 - DEBUG - Processando página 15/860
+2025-03-21 17:16:41,790 - DEBUG - Processando página 16/860
+2025-03-21 17:16:41,791 - DEBUG - Processando página 17/860
+2025-03-21 17:16:41,792 - INFO - Nota de Empenho detectada na página 17: 21020019
+2025-03-21 17:16:41,793 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE1020009.pdf
+2025-03-21 17:16:41,794 - DEBUG - Processando página 18/860
+2025-03-21 17:16:41,794 - DEBUG - Página 18 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:41,795 - DEBUG - Processando página 19/860
+2025-03-21 17:16:41,796 - DEBUG - Processando página 20/860
+2025-03-21 17:16:41,798 - DEBUG - Processando página 21/860
+2025-03-21 17:16:41,800 - DEBUG - Processando página 22/860
+2025-03-21 17:16:41,801 - DEBUG - Processando página 23/860
+2025-03-21 17:16:41,803 - DEBUG - Processando página 24/860
+2025-03-21 17:16:41,804 - DEBUG - Processando página 25/860
+2025-03-21 17:16:41,805 - DEBUG - Processando página 26/860
+2025-03-21 17:16:41,806 - DEBUG - Processando página 27/860
+2025-03-21 17:16:41,807 - DEBUG - Processando página 28/860
+2025-03-21 17:16:41,809 - DEBUG - Processando página 29/860
+2025-03-21 17:16:41,810 - DEBUG - Processando página 30/860
+2025-03-21 17:16:41,811 - DEBUG - Processando página 31/860
+2025-03-21 17:16:41,812 - DEBUG - Processando página 32/860
+2025-03-21 17:16:41,813 - DEBUG - Processando página 33/860
+2025-03-21 17:16:41,814 - DEBUG - Processando página 34/860
+2025-03-21 17:16:41,814 - DEBUG - Processando página 35/860
+2025-03-21 17:16:41,815 - DEBUG - Processando página 36/860
+2025-03-21 17:16:41,816 - DEBUG - Processando página 37/860
+2025-03-21 17:16:41,817 - DEBUG - Processando página 38/860
+2025-03-21 17:16:41,818 - DEBUG - Processando página 39/860
+2025-03-21 17:16:41,819 - DEBUG - Processando página 40/860
+2025-03-21 17:16:41,819 - INFO - Nota de Empenho detectada na página 40: 15020013
+2025-03-21 17:16:41,824 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE21020019.pdf
+2025-03-21 17:16:41,825 - DEBUG - Processando página 41/860
+2025-03-21 17:16:41,825 - DEBUG - Página 41 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:41,826 - DEBUG - Processando página 42/860
+2025-03-21 17:16:41,827 - DEBUG - Processando página 43/860
+2025-03-21 17:16:41,828 - DEBUG - Processando página 44/860
+2025-03-21 17:16:41,828 - INFO - Nota de Empenho detectada na página 44: 15020010
+2025-03-21 17:16:41,830 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE15020013.pdf
+2025-03-21 17:16:41,830 - DEBUG - Processando página 45/860
+2025-03-21 17:16:41,831 - DEBUG - Página 45 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:41,832 - DEBUG - Processando página 46/860
+2025-03-21 17:16:41,833 - DEBUG - Processando página 47/860
+2025-03-21 17:16:41,834 - DEBUG - Processando página 48/860
+2025-03-21 17:16:41,835 - INFO - Nota de Empenho detectada na página 48: 15020012
+2025-03-21 17:16:41,837 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE15020010.pdf
+2025-03-21 17:16:41,837 - DEBUG - Processando página 49/860
+2025-03-21 17:16:41,838 - DEBUG - Página 49 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:41,838 - DEBUG - Processando página 50/860
+2025-03-21 17:16:41,839 - DEBUG - Processando página 51/860
+2025-03-21 17:16:41,841 - DEBUG - Processando página 52/860
+2025-03-21 17:16:41,841 - INFO - Nota de Empenho detectada na página 52: 8020007
+2025-03-21 17:16:41,843 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE15020012.pdf
+2025-03-21 17:16:41,843 - DEBUG - Processando página 53/860
+2025-03-21 17:16:41,844 - DEBUG - Página 53 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:41,845 - DEBUG - Processando página 54/860
+2025-03-21 17:16:41,846 - DEBUG - Processando página 55/860
+2025-03-21 17:16:41,848 - DEBUG - Processando página 56/860
+2025-03-21 17:16:41,849 - DEBUG - Processando página 57/860
+2025-03-21 17:16:41,850 - DEBUG - Processando página 58/860
+2025-03-21 17:16:41,851 - DEBUG - Processando página 59/860
+2025-03-21 17:16:41,852 - DEBUG - Processando página 60/860
+2025-03-21 17:16:41,853 - DEBUG - Processando página 61/860
+2025-03-21 17:16:41,854 - DEBUG - Processando página 62/860
+2025-03-21 17:16:41,855 - DEBUG - Processando página 63/860
+2025-03-21 17:16:41,855 - DEBUG - Processando página 64/860
+2025-03-21 17:16:41,856 - DEBUG - Processando página 65/860
+2025-03-21 17:16:41,857 - DEBUG - Processando página 66/860
+2025-03-21 17:16:41,858 - DEBUG - Processando página 67/860
+2025-03-21 17:16:41,859 - DEBUG - Processando página 68/860
+2025-03-21 17:16:41,860 - DEBUG - Processando página 69/860
+2025-03-21 17:16:41,861 - DEBUG - Processando página 70/860
+2025-03-21 17:16:41,862 - DEBUG - Processando página 71/860
+2025-03-21 17:16:41,863 - DEBUG - Processando página 72/860
+2025-03-21 17:16:41,866 - DEBUG - Processando página 73/860
+2025-03-21 17:16:41,867 - DEBUG - Processando página 74/860
+2025-03-21 17:16:41,868 - DEBUG - Processando página 75/860
+2025-03-21 17:16:41,870 - DEBUG - Processando página 76/860
+2025-03-21 17:16:41,871 - DEBUG - Processando página 77/860
+2025-03-21 17:16:41,872 - DEBUG - Processando página 78/860
+2025-03-21 17:16:41,872 - INFO - Nota de Empenho detectada na página 78: 20020019
+2025-03-21 17:16:41,877 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE8020007.pdf
+2025-03-21 17:16:41,878 - DEBUG - Processando página 79/860
+2025-03-21 17:16:41,878 - DEBUG - Página 79 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:41,879 - DEBUG - Processando página 80/860
+2025-03-21 17:16:41,881 - DEBUG - Processando página 81/860
+2025-03-21 17:16:41,882 - DEBUG - Processando página 82/860
+2025-03-21 17:16:41,883 - DEBUG - Processando página 83/860
+2025-03-21 17:16:41,884 - DEBUG - Processando página 84/860
+2025-03-21 17:16:41,885 - DEBUG - Processando página 85/860
+2025-03-21 17:16:41,886 - DEBUG - Processando página 86/860
+2025-03-21 17:16:41,888 - DEBUG - Processando página 87/860
+2025-03-21 17:16:41,889 - DEBUG - Processando página 88/860
+2025-03-21 17:16:41,890 - DEBUG - Processando página 89/860
+2025-03-21 17:16:41,891 - DEBUG - Processando página 90/860
+2025-03-21 17:16:41,892 - DEBUG - Processando página 91/860
+2025-03-21 17:16:41,893 - DEBUG - Processando página 92/860
+2025-03-21 17:16:41,894 - DEBUG - Processando página 93/860
+2025-03-21 17:16:41,894 - DEBUG - Processando página 94/860
+2025-03-21 17:16:41,895 - DEBUG - Processando página 95/860
+2025-03-21 17:16:41,897 - DEBUG - Processando página 96/860
+2025-03-21 17:16:41,898 - DEBUG - Processando página 97/860
+2025-03-21 17:16:41,899 - DEBUG - Processando página 98/860
+2025-03-21 17:16:41,900 - DEBUG - Processando página 99/860
+2025-03-21 17:16:41,901 - DEBUG - Processando página 100/860
+2025-03-21 17:16:41,903 - DEBUG - Processando página 101/860
+2025-03-21 17:16:41,904 - DEBUG - Processando página 102/860
+2025-03-21 17:16:41,908 - DEBUG - Processando página 103/860
+2025-03-21 17:16:41,909 - DEBUG - Processando página 104/860
+2025-03-21 17:16:41,910 - DEBUG - Processando página 105/860
+2025-03-21 17:16:41,911 - DEBUG - Processando página 106/860
+2025-03-21 17:16:41,920 - DEBUG - Processando página 107/860
+2025-03-21 17:16:41,921 - DEBUG - Processando página 108/860
+2025-03-21 17:16:41,922 - DEBUG - Processando página 109/860
+2025-03-21 17:16:41,922 - INFO - Nota de Empenho detectada na página 109: 19020017
+2025-03-21 17:16:41,928 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE20020019.pdf
+2025-03-21 17:16:41,929 - DEBUG - Processando página 110/860
+2025-03-21 17:16:41,929 - DEBUG - Página 110 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:41,930 - DEBUG - Processando página 111/860
+2025-03-21 17:16:41,932 - DEBUG - Processando página 112/860
+2025-03-21 17:16:41,933 - DEBUG - Processando página 113/860
+2025-03-21 17:16:41,933 - DEBUG - Processando página 114/860
+2025-03-21 17:16:41,934 - DEBUG - Processando página 115/860
+2025-03-21 17:16:41,935 - DEBUG - Processando página 116/860
+2025-03-21 17:16:41,936 - DEBUG - Processando página 117/860
+2025-03-21 17:16:41,937 - DEBUG - Processando página 118/860
+2025-03-21 17:16:41,938 - DEBUG - Processando página 119/860
+2025-03-21 17:16:41,939 - DEBUG - Processando página 120/860
+2025-03-21 17:16:41,940 - DEBUG - Processando página 121/860
+2025-03-21 17:16:41,941 - DEBUG - Processando página 122/860
+2025-03-21 17:16:41,941 - DEBUG - Processando página 123/860
+2025-03-21 17:16:41,943 - DEBUG - Processando página 124/860
+2025-03-21 17:16:41,943 - DEBUG - Processando página 125/860
+2025-03-21 17:16:41,944 - DEBUG - Processando página 126/860
+2025-03-21 17:16:41,945 - DEBUG - Processando página 127/860
+2025-03-21 17:16:41,947 - DEBUG - Processando página 128/860
+2025-03-21 17:16:41,948 - DEBUG - Processando página 129/860
+2025-03-21 17:16:41,949 - DEBUG - Processando página 130/860
+2025-03-21 17:16:41,950 - DEBUG - Processando página 131/860
+2025-03-21 17:16:41,952 - DEBUG - Processando página 132/860
+2025-03-21 17:16:41,953 - DEBUG - Processando página 133/860
+2025-03-21 17:16:41,955 - DEBUG - Processando página 134/860
+2025-03-21 17:16:41,956 - DEBUG - Processando página 135/860
+2025-03-21 17:16:41,958 - DEBUG - Processando página 136/860
+2025-03-21 17:16:41,959 - DEBUG - Processando página 137/860
+2025-03-21 17:16:41,960 - DEBUG - Processando página 138/860
+2025-03-21 17:16:41,962 - DEBUG - Processando página 139/860
+2025-03-21 17:16:41,963 - DEBUG - Processando página 140/860
+2025-03-21 17:16:41,964 - DEBUG - Processando página 141/860
+2025-03-21 17:16:41,964 - INFO - Nota de Empenho detectada na página 141: 26020012
+2025-03-21 17:16:41,970 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE19020017.pdf
+2025-03-21 17:16:41,971 - DEBUG - Processando página 142/860
+2025-03-21 17:16:41,971 - DEBUG - Página 142 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:41,972 - DEBUG - Processando página 143/860
+2025-03-21 17:16:41,973 - DEBUG - Processando página 144/860
+2025-03-21 17:16:41,974 - DEBUG - Processando página 145/860
+2025-03-21 17:16:41,975 - DEBUG - Processando página 146/860
+2025-03-21 17:16:41,976 - DEBUG - Processando página 147/860
+2025-03-21 17:16:41,977 - DEBUG - Processando página 148/860
+2025-03-21 17:16:41,977 - INFO - Nota de Empenho detectada na página 148: 7020010
+2025-03-21 17:16:41,979 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE26020012.pdf
+2025-03-21 17:16:41,980 - DEBUG - Processando página 149/860
+2025-03-21 17:16:41,980 - DEBUG - Página 149 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:41,981 - DEBUG - Processando página 150/860
+2025-03-21 17:16:41,982 - DEBUG - Processando página 151/860
+2025-03-21 17:16:41,983 - DEBUG - Processando página 152/860
+2025-03-21 17:16:41,984 - DEBUG - Processando página 153/860
+2025-03-21 17:16:41,985 - DEBUG - Processando página 154/860
+2025-03-21 17:16:41,986 - DEBUG - Processando página 155/860
+2025-03-21 17:16:41,986 - INFO - Nota de Empenho detectada na página 155: 19020011
+2025-03-21 17:16:41,988 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE7020010_3.pdf
+2025-03-21 17:16:41,989 - DEBUG - Processando página 156/860
+2025-03-21 17:16:41,990 - DEBUG - Página 156 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:41,990 - DEBUG - Processando página 157/860
+2025-03-21 17:16:41,992 - DEBUG - Processando página 158/860
+2025-03-21 17:16:41,993 - DEBUG - Processando página 159/860
+2025-03-21 17:16:41,994 - DEBUG - Processando página 160/860
+2025-03-21 17:16:41,995 - DEBUG - Processando página 161/860
+2025-03-21 17:16:41,995 - DEBUG - Processando página 162/860
+2025-03-21 17:16:41,996 - INFO - Nota de Empenho detectada na página 162: 26020013
+2025-03-21 17:16:41,998 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE19020011.pdf
+2025-03-21 17:16:41,998 - DEBUG - Processando página 163/860
+2025-03-21 17:16:41,999 - DEBUG - Página 163 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,000 - DEBUG - Processando página 164/860
+2025-03-21 17:16:42,001 - DEBUG - Processando página 165/860
+2025-03-21 17:16:42,002 - DEBUG - Processando página 166/860
+2025-03-21 17:16:42,003 - DEBUG - Processando página 167/860
+2025-03-21 17:16:42,004 - DEBUG - Processando página 168/860
+2025-03-21 17:16:42,005 - DEBUG - Processando página 169/860
+2025-03-21 17:16:42,006 - INFO - Nota de Empenho detectada na página 169: 20020014
+2025-03-21 17:16:42,008 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE26020013.pdf
+2025-03-21 17:16:42,008 - DEBUG - Processando página 170/860
+2025-03-21 17:16:42,009 - DEBUG - Página 170 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,010 - DEBUG - Processando página 171/860
+2025-03-21 17:16:42,011 - DEBUG - Processando página 172/860
+2025-03-21 17:16:42,012 - DEBUG - Processando página 173/860
+2025-03-21 17:16:42,013 - DEBUG - Processando página 174/860
+2025-03-21 17:16:42,013 - DEBUG - Processando página 175/860
+2025-03-21 17:16:42,014 - DEBUG - Processando página 176/860
+2025-03-21 17:16:42,015 - INFO - Nota de Empenho detectada na página 176: 19020011
+2025-03-21 17:16:42,016 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE20020014.pdf
+2025-03-21 17:16:42,017 - DEBUG - Processando página 177/860
+2025-03-21 17:16:42,017 - DEBUG - Página 177 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,018 - DEBUG - Processando página 178/860
+2025-03-21 17:16:42,019 - DEBUG - Processando página 179/860
+2025-03-21 17:16:42,020 - DEBUG - Processando página 180/860
+2025-03-21 17:16:42,021 - DEBUG - Processando página 181/860
+2025-03-21 17:16:42,022 - DEBUG - Processando página 182/860
+2025-03-21 17:16:42,023 - DEBUG - Processando página 183/860
+2025-03-21 17:16:42,024 - INFO - Nota de Empenho detectada na página 183: 6020001
+2025-03-21 17:16:42,026 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE19020011_3.pdf
+2025-03-21 17:16:42,026 - DEBUG - Processando página 184/860
+2025-03-21 17:16:42,027 - DEBUG - Página 184 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,027 - DEBUG - Processando página 185/860
+2025-03-21 17:16:42,028 - DEBUG - Processando página 186/860
+2025-03-21 17:16:42,029 - DEBUG - Processando página 187/860
+2025-03-21 17:16:42,030 - DEBUG - Processando página 188/860
+2025-03-21 17:16:42,031 - DEBUG - Processando página 189/860
+2025-03-21 17:16:42,033 - DEBUG - Processando página 190/860
+2025-03-21 17:16:42,033 - INFO - Nota de Empenho detectada na página 190: 23010001
+2025-03-21 17:16:42,035 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE6020001.pdf
+2025-03-21 17:16:42,036 - DEBUG - Processando página 191/860
+2025-03-21 17:16:42,036 - DEBUG - Página 191 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,037 - DEBUG - Processando página 192/860
+2025-03-21 17:16:42,038 - DEBUG - Processando página 193/860
+2025-03-21 17:16:42,039 - DEBUG - Processando página 194/860
+2025-03-21 17:16:42,041 - DEBUG - Processando página 195/860
+2025-03-21 17:16:42,041 - DEBUG - Processando página 196/860
+2025-03-21 17:16:42,042 - DEBUG - Processando página 197/860
+2025-03-21 17:16:42,043 - INFO - Nota de Empenho detectada na página 197: 15010002
+2025-03-21 17:16:42,045 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE23010001.pdf
+2025-03-21 17:16:42,045 - DEBUG - Processando página 198/860
+2025-03-21 17:16:42,046 - DEBUG - Página 198 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,046 - DEBUG - Processando página 199/860
+2025-03-21 17:16:42,047 - DEBUG - Processando página 200/860
+2025-03-21 17:16:42,049 - DEBUG - Processando página 201/860
+2025-03-21 17:16:42,050 - DEBUG - Processando página 202/860
+2025-03-21 17:16:42,051 - DEBUG - Processando página 203/860
+2025-03-21 17:16:42,051 - DEBUG - Processando página 204/860
+2025-03-21 17:16:42,052 - INFO - Nota de Empenho detectada na página 204: 23010002
+2025-03-21 17:16:42,054 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE15010002.pdf
+2025-03-21 17:16:42,054 - DEBUG - Processando página 205/860
+2025-03-21 17:16:42,055 - DEBUG - Página 205 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,056 - DEBUG - Processando página 206/860
+2025-03-21 17:16:42,057 - DEBUG - Processando página 207/860
+2025-03-21 17:16:42,058 - DEBUG - Processando página 208/860
+2025-03-21 17:16:42,059 - DEBUG - Processando página 209/860
+2025-03-21 17:16:42,060 - DEBUG - Processando página 210/860
+2025-03-21 17:16:42,061 - DEBUG - Processando página 211/860
+2025-03-21 17:16:42,062 - INFO - Nota de Empenho detectada na página 211: 16010001
+2025-03-21 17:16:42,064 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE23010002.pdf
+2025-03-21 17:16:42,064 - DEBUG - Processando página 212/860
+2025-03-21 17:16:42,065 - DEBUG - Página 212 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,066 - DEBUG - Processando página 213/860
+2025-03-21 17:16:42,067 - DEBUG - Processando página 214/860
+2025-03-21 17:16:42,067 - DEBUG - Processando página 215/860
+2025-03-21 17:16:42,068 - DEBUG - Processando página 216/860
+2025-03-21 17:16:42,069 - DEBUG - Processando página 217/860
+2025-03-21 17:16:42,070 - DEBUG - Processando página 218/860
+2025-03-21 17:16:42,071 - INFO - Nota de Empenho detectada na página 218: 9050005
+2025-03-21 17:16:42,073 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE16010001.pdf
+2025-03-21 17:16:42,073 - DEBUG - Processando página 219/860
+2025-03-21 17:16:42,074 - DEBUG - Página 219 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,075 - DEBUG - Processando página 220/860
+2025-03-21 17:16:42,075 - DEBUG - Processando página 221/860
+2025-03-21 17:16:42,076 - DEBUG - Processando página 222/860
+2025-03-21 17:16:42,077 - DEBUG - Processando página 223/860
+2025-03-21 17:16:42,078 - DEBUG - Processando página 224/860
+2025-03-21 17:16:42,079 - DEBUG - Processando página 225/860
+2025-03-21 17:16:42,080 - INFO - Nota de Empenho detectada na página 225: 24070006
+2025-03-21 17:16:42,082 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE9050005.pdf
+2025-03-21 17:16:42,082 - DEBUG - Processando página 226/860
+2025-03-21 17:16:42,083 - DEBUG - Página 226 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,084 - DEBUG - Processando página 227/860
+2025-03-21 17:16:42,085 - DEBUG - Processando página 228/860
+2025-03-21 17:16:42,086 - DEBUG - Processando página 229/860
+2025-03-21 17:16:42,087 - DEBUG - Processando página 230/860
+2025-03-21 17:16:42,087 - DEBUG - Processando página 231/860
+2025-03-21 17:16:42,088 - DEBUG - Processando página 232/860
+2025-03-21 17:16:42,089 - INFO - Nota de Empenho detectada na página 232: 24070006
+2025-03-21 17:16:42,090 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE24070006.pdf
+2025-03-21 17:16:42,091 - DEBUG - Processando página 233/860
+2025-03-21 17:16:42,092 - DEBUG - Página 233 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,092 - DEBUG - Processando página 234/860
+2025-03-21 17:16:42,093 - DEBUG - Processando página 235/860
+2025-03-21 17:16:42,094 - DEBUG - Processando página 236/860
+2025-03-21 17:16:42,095 - DEBUG - Processando página 237/860
+2025-03-21 17:16:42,096 - DEBUG - Processando página 238/860
+2025-03-21 17:16:42,097 - DEBUG - Processando página 239/860
+2025-03-21 17:16:42,097 - INFO - Nota de Empenho detectada na página 239: 2070011
+2025-03-21 17:16:42,099 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE24070006_3.pdf
+2025-03-21 17:16:42,099 - DEBUG - Processando página 240/860
+2025-03-21 17:16:42,100 - DEBUG - Página 240 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,101 - DEBUG - Processando página 241/860
+2025-03-21 17:16:42,102 - DEBUG - Processando página 242/860
+2025-03-21 17:16:42,103 - DEBUG - Processando página 243/860
+2025-03-21 17:16:42,103 - DEBUG - Processando página 244/860
+2025-03-21 17:16:42,105 - DEBUG - Processando página 245/860
+2025-03-21 17:16:42,106 - DEBUG - Processando página 246/860
+2025-03-21 17:16:42,107 - DEBUG - Processando página 247/860
+2025-03-21 17:16:42,108 - DEBUG - Página 247 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,108 - DEBUG - Processando página 248/860
+2025-03-21 17:16:42,109 - DEBUG - Processando página 249/860
+2025-03-21 17:16:42,110 - DEBUG - Processando página 250/860
+2025-03-21 17:16:42,111 - DEBUG - Processando página 251/860
+2025-03-21 17:16:42,112 - DEBUG - Processando página 252/860
+2025-03-21 17:16:42,113 - DEBUG - Processando página 253/860
+2025-03-21 17:16:42,113 - INFO - Nota de Empenho detectada na página 253: 19070004
+2025-03-21 17:16:42,115 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE2070011.pdf
+2025-03-21 17:16:42,116 - DEBUG - Processando página 254/860
+2025-03-21 17:16:42,117 - DEBUG - Página 254 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,117 - DEBUG - Processando página 255/860
+2025-03-21 17:16:42,118 - DEBUG - Processando página 256/860
+2025-03-21 17:16:42,119 - DEBUG - Processando página 257/860
+2025-03-21 17:16:42,120 - DEBUG - Processando página 258/860
+2025-03-21 17:16:42,121 - DEBUG - Processando página 259/860
+2025-03-21 17:16:42,122 - DEBUG - Processando página 260/860
+2025-03-21 17:16:42,122 - INFO - Nota de Empenho detectada na página 260: 22070004
+2025-03-21 17:16:42,124 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE19070004.pdf
+2025-03-21 17:16:42,125 - DEBUG - Processando página 261/860
+2025-03-21 17:16:42,125 - DEBUG - Página 261 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,126 - DEBUG - Processando página 262/860
+2025-03-21 17:16:42,127 - DEBUG - Processando página 263/860
+2025-03-21 17:16:42,128 - DEBUG - Processando página 264/860
+2025-03-21 17:16:42,129 - DEBUG - Processando página 265/860
+2025-03-21 17:16:42,129 - DEBUG - Processando página 266/860
+2025-03-21 17:16:42,130 - DEBUG - Processando página 267/860
+2025-03-21 17:16:42,131 - INFO - Nota de Empenho detectada na página 267: 24070002
+2025-03-21 17:16:42,132 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE22070004.pdf
+2025-03-21 17:16:42,133 - DEBUG - Processando página 268/860
+2025-03-21 17:16:42,134 - DEBUG - Página 268 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,134 - DEBUG - Processando página 269/860
+2025-03-21 17:16:42,135 - DEBUG - Processando página 270/860
+2025-03-21 17:16:42,136 - DEBUG - Processando página 271/860
+2025-03-21 17:16:42,137 - DEBUG - Processando página 272/860
+2025-03-21 17:16:42,138 - DEBUG - Processando página 273/860
+2025-03-21 17:16:42,139 - DEBUG - Processando página 274/860
+2025-03-21 17:16:42,139 - INFO - Nota de Empenho detectada na página 274: 2070009
+2025-03-21 17:16:42,141 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE24070002.pdf
+2025-03-21 17:16:42,142 - DEBUG - Processando página 275/860
+2025-03-21 17:16:42,142 - DEBUG - Página 275 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,143 - DEBUG - Processando página 276/860
+2025-03-21 17:16:42,144 - DEBUG - Processando página 277/860
+2025-03-21 17:16:42,145 - DEBUG - Processando página 278/860
+2025-03-21 17:16:42,146 - DEBUG - Processando página 279/860
+2025-03-21 17:16:42,148 - DEBUG - Processando página 280/860
+2025-03-21 17:16:42,148 - DEBUG - Processando página 281/860
+2025-03-21 17:16:42,149 - INFO - Nota de Empenho detectada na página 281: 25030013
+2025-03-21 17:16:42,151 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE2070009.pdf
+2025-03-21 17:16:42,151 - DEBUG - Processando página 282/860
+2025-03-21 17:16:42,152 - DEBUG - Página 282 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,153 - DEBUG - Processando página 283/860
+2025-03-21 17:16:42,154 - DEBUG - Processando página 284/860
+2025-03-21 17:16:42,154 - DEBUG - Processando página 285/860
+2025-03-21 17:16:42,155 - INFO - Nota de Empenho detectada na página 285: 28030073
+2025-03-21 17:16:42,156 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE25030013.pdf
+2025-03-21 17:16:42,157 - DEBUG - Processando página 286/860
+2025-03-21 17:16:42,157 - DEBUG - Página 286 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,158 - DEBUG - Processando página 287/860
+2025-03-21 17:16:42,159 - DEBUG - Processando página 288/860
+2025-03-21 17:16:42,160 - DEBUG - Processando página 289/860
+2025-03-21 17:16:42,160 - INFO - Nota de Empenho detectada na página 289: 28030067
+2025-03-21 17:16:42,162 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE28030073.pdf
+2025-03-21 17:16:42,162 - DEBUG - Processando página 290/860
+2025-03-21 17:16:42,163 - DEBUG - Página 290 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,164 - DEBUG - Processando página 291/860
+2025-03-21 17:16:42,165 - DEBUG - Processando página 292/860
+2025-03-21 17:16:42,165 - DEBUG - Processando página 293/860
+2025-03-21 17:16:42,166 - INFO - Nota de Empenho detectada na página 293: 28030068
+2025-03-21 17:16:42,167 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE28030067.pdf
+2025-03-21 17:16:42,168 - DEBUG - Processando página 294/860
+2025-03-21 17:16:42,168 - DEBUG - Página 294 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,169 - DEBUG - Processando página 295/860
+2025-03-21 17:16:42,170 - DEBUG - Processando página 296/860
+2025-03-21 17:16:42,171 - DEBUG - Processando página 297/860
+2025-03-21 17:16:42,171 - INFO - Nota de Empenho detectada na página 297: 28030069
+2025-03-21 17:16:42,173 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE28030068.pdf
+2025-03-21 17:16:42,173 - DEBUG - Processando página 298/860
+2025-03-21 17:16:42,174 - DEBUG - Página 298 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,174 - DEBUG - Processando página 299/860
+2025-03-21 17:16:42,175 - DEBUG - Processando página 300/860
+2025-03-21 17:16:42,176 - DEBUG - Processando página 301/860
+2025-03-21 17:16:42,177 - INFO - Nota de Empenho detectada na página 301: 1030014
+2025-03-21 17:16:42,178 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE28030069.pdf
+2025-03-21 17:16:42,179 - DEBUG - Processando página 302/860
+2025-03-21 17:16:42,180 - INFO - Nota de Empenho detectada na página 302: 1030014
+2025-03-21 17:16:42,181 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE1030014.pdf
+2025-03-21 17:16:42,181 - DEBUG - Processando página 303/860
+2025-03-21 17:16:42,182 - DEBUG - Página 303 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,182 - DEBUG - Processando página 304/860
+2025-03-21 17:16:42,183 - DEBUG - Processando página 305/860
+2025-03-21 17:16:42,184 - DEBUG - Processando página 306/860
+2025-03-21 17:16:42,185 - INFO - Nota de Empenho detectada na página 306: 1030013
+2025-03-21 17:16:42,186 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE1030014_3.pdf
+2025-03-21 17:16:42,187 - DEBUG - Processando página 307/860
+2025-03-21 17:16:42,188 - DEBUG - Página 307 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,188 - DEBUG - Processando página 308/860
+2025-03-21 17:16:42,189 - DEBUG - Processando página 309/860
+2025-03-21 17:16:42,190 - DEBUG - Processando página 310/860
+2025-03-21 17:16:42,190 - INFO - Nota de Empenho detectada na página 310: 1030013
+2025-03-21 17:16:42,192 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE1030013.pdf
+2025-03-21 17:16:42,192 - DEBUG - Processando página 311/860
+2025-03-21 17:16:42,193 - DEBUG - Página 311 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,193 - DEBUG - Processando página 312/860
+2025-03-21 17:16:42,194 - DEBUG - Processando página 313/860
+2025-03-21 17:16:42,195 - DEBUG - Processando página 314/860
+2025-03-21 17:16:42,196 - INFO - Nota de Empenho detectada na página 314: 4030006
+2025-03-21 17:16:42,197 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE1030013_3.pdf
+2025-03-21 17:16:42,198 - DEBUG - Processando página 315/860
+2025-03-21 17:16:42,198 - DEBUG - Página 315 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,199 - DEBUG - Processando página 316/860
+2025-03-21 17:16:42,200 - DEBUG - Processando página 317/860
+2025-03-21 17:16:42,201 - DEBUG - Processando página 318/860
+2025-03-21 17:16:42,201 - INFO - Nota de Empenho detectada na página 318: 4030008
+2025-03-21 17:16:42,203 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE4030006.pdf
+2025-03-21 17:16:42,203 - DEBUG - Processando página 319/860
+2025-03-21 17:16:42,204 - DEBUG - Página 319 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,205 - DEBUG - Processando página 320/860
+2025-03-21 17:16:42,205 - DEBUG - Processando página 321/860
+2025-03-21 17:16:42,206 - DEBUG - Processando página 322/860
+2025-03-21 17:16:42,207 - INFO - Nota de Empenho detectada na página 322: 22030010
+2025-03-21 17:16:42,208 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE4030008.pdf
+2025-03-21 17:16:42,209 - DEBUG - Processando página 323/860
+2025-03-21 17:16:42,209 - DEBUG - Página 323 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,210 - DEBUG - Processando página 324/860
+2025-03-21 17:16:42,211 - DEBUG - Processando página 325/860
+2025-03-21 17:16:42,212 - DEBUG - Processando página 326/860
+2025-03-21 17:16:42,212 - INFO - Nota de Empenho detectada na página 326: 28030072
+2025-03-21 17:16:42,214 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE22030010.pdf
+2025-03-21 17:16:42,214 - DEBUG - Processando página 327/860
+2025-03-21 17:16:42,215 - INFO - Nota de Empenho detectada na página 327: 28030072
+2025-03-21 17:16:42,217 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE28030072.pdf
+2025-03-21 17:16:42,218 - DEBUG - Processando página 328/860
+2025-03-21 17:16:42,219 - DEBUG - Processando página 329/860
+2025-03-21 17:16:42,220 - DEBUG - Processando página 330/860
+2025-03-21 17:16:42,220 - INFO - Nota de Empenho detectada na página 330: 323
+2025-03-21 17:16:42,222 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE28030072_3.pdf
+2025-03-21 17:16:42,222 - DEBUG - Processando página 331/860
+2025-03-21 17:16:42,223 - DEBUG - Página 331 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,224 - DEBUG - Processando página 332/860
+2025-03-21 17:16:42,225 - DEBUG - Processando página 333/860
+2025-03-21 17:16:42,226 - DEBUG - Processando página 334/860
+2025-03-21 17:16:42,227 - DEBUG - Processando página 335/860
+2025-03-21 17:16:42,227 - DEBUG - Página 335 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,228 - DEBUG - Processando página 336/860
+2025-03-21 17:16:42,229 - DEBUG - Processando página 337/860
+2025-03-21 17:16:42,230 - DEBUG - Processando página 338/860
+2025-03-21 17:16:42,230 - INFO - Nota de Empenho detectada na página 338: 25030010
+2025-03-21 17:16:42,232 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE323.pdf
+2025-03-21 17:16:42,232 - DEBUG - Processando página 339/860
+2025-03-21 17:16:42,233 - DEBUG - Página 339 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,233 - DEBUG - Processando página 340/860
+2025-03-21 17:16:42,234 - DEBUG - Processando página 341/860
+2025-03-21 17:16:42,235 - DEBUG - Processando página 342/860
+2025-03-21 17:16:42,235 - INFO - Nota de Empenho detectada na página 342: 6030006
+2025-03-21 17:16:42,237 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE25030010.pdf
+2025-03-21 17:16:42,238 - DEBUG - Processando página 343/860
+2025-03-21 17:16:42,239 - DEBUG - Página 343 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,240 - DEBUG - Processando página 344/860
+2025-03-21 17:16:42,241 - DEBUG - Processando página 345/860
+2025-03-21 17:16:42,242 - DEBUG - Processando página 346/860
+2025-03-21 17:16:42,243 - INFO - Nota de Empenho detectada na página 346: 15030007
+2025-03-21 17:16:42,244 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE6030006.pdf
+2025-03-21 17:16:42,245 - DEBUG - Processando página 347/860
+2025-03-21 17:16:42,246 - DEBUG - Página 347 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,246 - DEBUG - Processando página 348/860
+2025-03-21 17:16:42,247 - DEBUG - Processando página 349/860
+2025-03-21 17:16:42,248 - DEBUG - Processando página 350/860
+2025-03-21 17:16:42,249 - INFO - Nota de Empenho detectada na página 350: 14030008
+2025-03-21 17:16:42,250 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE15030007.pdf
+2025-03-21 17:16:42,251 - DEBUG - Processando página 351/860
+2025-03-21 17:16:42,251 - DEBUG - Página 351 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,252 - DEBUG - Processando página 352/860
+2025-03-21 17:16:42,253 - DEBUG - Processando página 353/860
+2025-03-21 17:16:42,254 - DEBUG - Processando página 354/860
+2025-03-21 17:16:42,254 - INFO - Nota de Empenho detectada na página 354: 14030009
+2025-03-21 17:16:42,255 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE14030008.pdf
+2025-03-21 17:16:42,256 - DEBUG - Processando página 355/860
+2025-03-21 17:16:42,257 - DEBUG - Página 355 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,258 - DEBUG - Processando página 356/860
+2025-03-21 17:16:42,258 - DEBUG - Processando página 357/860
+2025-03-21 17:16:42,259 - DEBUG - Processando página 358/860
+2025-03-21 17:16:42,260 - INFO - Nota de Empenho detectada na página 358: 22030008
+2025-03-21 17:16:42,261 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE14030009.pdf
+2025-03-21 17:16:42,262 - DEBUG - Processando página 359/860
+2025-03-21 17:16:42,262 - DEBUG - Página 359 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,263 - DEBUG - Processando página 360/860
+2025-03-21 17:16:42,263 - DEBUG - Processando página 361/860
+2025-03-21 17:16:42,264 - DEBUG - Processando página 362/860
+2025-03-21 17:16:42,265 - INFO - Nota de Empenho detectada na página 362: 21030007
+2025-03-21 17:16:42,266 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE22030008.pdf
+2025-03-21 17:16:42,267 - DEBUG - Processando página 363/860
+2025-03-21 17:16:42,267 - INFO - Nota de Empenho detectada na página 363: 2103000
+2025-03-21 17:16:42,268 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE21030007.pdf
+2025-03-21 17:16:42,269 - DEBUG - Processando página 364/860
+2025-03-21 17:16:42,270 - DEBUG - Processando página 365/860
+2025-03-21 17:16:42,271 - DEBUG - Processando página 366/860
+2025-03-21 17:16:42,272 - INFO - Nota de Empenho detectada na página 366: 20030016
+2025-03-21 17:16:42,273 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE2103000.pdf
+2025-03-21 17:16:42,274 - DEBUG - Processando página 367/860
+2025-03-21 17:16:42,274 - DEBUG - Página 367 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,275 - DEBUG - Processando página 368/860
+2025-03-21 17:16:42,276 - DEBUG - Processando página 369/860
+2025-03-21 17:16:42,277 - DEBUG - Processando página 370/860
+2025-03-21 17:16:42,277 - INFO - Nota de Empenho detectada na página 370: 21030004
+2025-03-21 17:16:42,279 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE20030016.pdf
+2025-03-21 17:16:42,279 - DEBUG - Processando página 371/860
+2025-03-21 17:16:42,280 - DEBUG - Página 371 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,281 - DEBUG - Processando página 372/860
+2025-03-21 17:16:42,282 - DEBUG - Processando página 373/860
+2025-03-21 17:16:42,283 - DEBUG - Processando página 374/860
+2025-03-21 17:16:42,283 - INFO - Nota de Empenho detectada na página 374: 19030007
+2025-03-21 17:16:42,285 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE21030004.pdf
+2025-03-21 17:16:42,285 - DEBUG - Processando página 375/860
+2025-03-21 17:16:42,286 - DEBUG - Página 375 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,286 - DEBUG - Processando página 376/860
+2025-03-21 17:16:42,287 - DEBUG - Processando página 377/860
+2025-03-21 17:16:42,288 - DEBUG - Processando página 378/860
+2025-03-21 17:16:42,289 - INFO - Nota de Empenho detectada na página 378: 21030006
+2025-03-21 17:16:42,290 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE19030007.pdf
+2025-03-21 17:16:42,291 - DEBUG - Processando página 379/860
+2025-03-21 17:16:42,291 - DEBUG - Página 379 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,292 - DEBUG - Processando página 380/860
+2025-03-21 17:16:42,293 - DEBUG - Processando página 381/860
+2025-03-21 17:16:42,294 - DEBUG - Processando página 382/860
+2025-03-21 17:16:42,295 - INFO - Nota de Empenho detectada na página 382: 8030030
+2025-03-21 17:16:42,296 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE21030006.pdf
+2025-03-21 17:16:42,297 - DEBUG - Processando página 383/860
+2025-03-21 17:16:42,297 - DEBUG - Página 383 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,298 - DEBUG - Processando página 384/860
+2025-03-21 17:16:42,299 - DEBUG - Processando página 385/860
+2025-03-21 17:16:42,300 - DEBUG - Processando página 386/860
+2025-03-21 17:16:42,301 - INFO - Nota de Empenho detectada na página 386: 19030008
+2025-03-21 17:16:42,302 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE8030030.pdf
+2025-03-21 17:16:42,303 - DEBUG - Processando página 387/860
+2025-03-21 17:16:42,303 - DEBUG - Página 387 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,304 - DEBUG - Processando página 388/860
+2025-03-21 17:16:42,305 - DEBUG - Processando página 389/860
+2025-03-21 17:16:42,306 - DEBUG - Processando página 390/860
+2025-03-21 17:16:42,306 - INFO - Nota de Empenho detectada na página 390: 6030008
+2025-03-21 17:16:42,308 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE19030008.pdf
+2025-03-21 17:16:42,309 - DEBUG - Processando página 391/860
+2025-03-21 17:16:42,309 - DEBUG - Página 391 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,310 - DEBUG - Processando página 392/860
+2025-03-21 17:16:42,311 - DEBUG - Processando página 393/860
+2025-03-21 17:16:42,312 - DEBUG - Processando página 394/860
+2025-03-21 17:16:42,313 - DEBUG - Processando página 395/860
+2025-03-21 17:16:42,314 - DEBUG - Processando página 396/860
+2025-03-21 17:16:42,315 - DEBUG - Processando página 397/860
+2025-03-21 17:16:42,316 - DEBUG - Processando página 398/860
+2025-03-21 17:16:42,317 - DEBUG - Processando página 399/860
+2025-03-21 17:16:42,318 - DEBUG - Processando página 400/860
+2025-03-21 17:16:42,319 - DEBUG - Processando página 401/860
+2025-03-21 17:16:42,320 - DEBUG - Processando página 402/860
+2025-03-21 17:16:42,320 - DEBUG - Processando página 403/860
+2025-03-21 17:16:42,321 - DEBUG - Processando página 404/860
+2025-03-21 17:16:42,322 - DEBUG - Processando página 405/860
+2025-03-21 17:16:42,323 - DEBUG - Processando página 406/860
+2025-03-21 17:16:42,323 - DEBUG - Processando página 407/860
+2025-03-21 17:16:42,324 - DEBUG - Processando página 408/860
+2025-03-21 17:16:42,325 - DEBUG - Processando página 409/860
+2025-03-21 17:16:42,326 - DEBUG - Processando página 410/860
+2025-03-21 17:16:42,327 - DEBUG - Processando página 411/860
+2025-03-21 17:16:42,328 - DEBUG - Processando página 412/860
+2025-03-21 17:16:42,329 - DEBUG - Processando página 413/860
+2025-03-21 17:16:42,330 - DEBUG - Processando página 414/860
+2025-03-21 17:16:42,331 - DEBUG - Processando página 415/860
+2025-03-21 17:16:42,333 - DEBUG - Processando página 416/860
+2025-03-21 17:16:42,334 - DEBUG - Processando página 417/860
+2025-03-21 17:16:42,335 - DEBUG - Processando página 418/860
+2025-03-21 17:16:42,337 - DEBUG - Processando página 419/860
+2025-03-21 17:16:42,338 - DEBUG - Processando página 420/860
+2025-03-21 17:16:42,338 - DEBUG - Processando página 421/860
+2025-03-21 17:16:42,340 - DEBUG - Processando página 422/860
+2025-03-21 17:16:42,341 - DEBUG - Processando página 423/860
+2025-03-21 17:16:42,342 - DEBUG - Processando página 424/860
+2025-03-21 17:16:42,343 - INFO - Nota de Empenho detectada na página 424: 7030006
+2025-03-21 17:16:42,348 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE6030008.pdf
+2025-03-21 17:16:42,349 - DEBUG - Processando página 425/860
+2025-03-21 17:16:42,350 - DEBUG - Página 425 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,351 - DEBUG - Processando página 426/860
+2025-03-21 17:16:42,353 - DEBUG - Processando página 427/860
+2025-03-21 17:16:42,354 - DEBUG - Processando página 428/860
+2025-03-21 17:16:42,355 - DEBUG - Processando página 429/860
+2025-03-21 17:16:42,356 - DEBUG - Processando página 430/860
+2025-03-21 17:16:42,356 - DEBUG - Processando página 431/860
+2025-03-21 17:16:42,357 - DEBUG - Processando página 432/860
+2025-03-21 17:16:42,358 - DEBUG - Processando página 433/860
+2025-03-21 17:16:42,359 - DEBUG - Processando página 434/860
+2025-03-21 17:16:42,360 - DEBUG - Processando página 435/860
+2025-03-21 17:16:42,361 - DEBUG - Processando página 436/860
+2025-03-21 17:16:42,362 - DEBUG - Processando página 437/860
+2025-03-21 17:16:42,363 - DEBUG - Processando página 438/860
+2025-03-21 17:16:42,364 - DEBUG - Processando página 439/860
+2025-03-21 17:16:42,365 - DEBUG - Processando página 440/860
+2025-03-21 17:16:42,366 - DEBUG - Processando página 441/860
+2025-03-21 17:16:42,367 - DEBUG - Processando página 442/860
+2025-03-21 17:16:42,369 - DEBUG - Processando página 443/860
+2025-03-21 17:16:42,370 - DEBUG - Processando página 444/860
+2025-03-21 17:16:42,371 - DEBUG - Processando página 445/860
+2025-03-21 17:16:42,372 - DEBUG - Processando página 446/860
+2025-03-21 17:16:42,373 - DEBUG - Processando página 447/860
+2025-03-21 17:16:42,374 - DEBUG - Processando página 448/860
+2025-03-21 17:16:42,375 - DEBUG - Processando página 449/860
+2025-03-21 17:16:42,377 - DEBUG - Processando página 450/860
+2025-03-21 17:16:42,378 - DEBUG - Processando página 451/860
+2025-03-21 17:16:42,378 - DEBUG - Processando página 452/860
+2025-03-21 17:16:42,380 - DEBUG - Processando página 453/860
+2025-03-21 17:16:42,380 - INFO - Nota de Empenho detectada na página 453: 22010004
+2025-03-21 17:16:42,387 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE7030006.pdf
+2025-03-21 17:16:42,388 - DEBUG - Processando página 454/860
+2025-03-21 17:16:42,388 - DEBUG - Página 454 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,389 - DEBUG - Processando página 455/860
+2025-03-21 17:16:42,390 - DEBUG - Processando página 456/860
+2025-03-21 17:16:42,391 - DEBUG - Processando página 457/860
+2025-03-21 17:16:42,392 - DEBUG - Processando página 458/860
+2025-03-21 17:16:42,393 - DEBUG - Processando página 459/860
+2025-03-21 17:16:42,394 - DEBUG - Processando página 460/860
+2025-03-21 17:16:42,394 - INFO - Nota de Empenho detectada na página 460: 11010006
+2025-03-21 17:16:42,397 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE22010004.pdf
+2025-03-21 17:16:42,397 - DEBUG - Processando página 461/860
+2025-03-21 17:16:42,398 - DEBUG - Página 461 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,399 - DEBUG - Processando página 462/860
+2025-03-21 17:16:42,399 - DEBUG - Processando página 463/860
+2025-03-21 17:16:42,400 - DEBUG - Processando página 464/860
+2025-03-21 17:16:42,401 - DEBUG - Processando página 465/860
+2025-03-21 17:16:42,402 - DEBUG - Processando página 466/860
+2025-03-21 17:16:42,403 - DEBUG - Processando página 467/860
+2025-03-21 17:16:42,403 - INFO - Nota de Empenho detectada na página 467: 8030014
+2025-03-21 17:16:42,405 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE11010006.pdf
+2025-03-21 17:16:42,406 - DEBUG - Processando página 468/860
+2025-03-21 17:16:42,407 - DEBUG - Página 468 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,407 - DEBUG - Processando página 469/860
+2025-03-21 17:16:42,408 - DEBUG - Processando página 470/860
+2025-03-21 17:16:42,409 - DEBUG - Processando página 471/860
+2025-03-21 17:16:42,409 - INFO - Nota de Empenho detectada na página 471: 7030004
+2025-03-21 17:16:42,411 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE8030014.pdf
+2025-03-21 17:16:42,411 - DEBUG - Processando página 472/860
+2025-03-21 17:16:42,412 - DEBUG - Página 472 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,413 - DEBUG - Processando página 473/860
+2025-03-21 17:16:42,413 - DEBUG - Processando página 474/860
+2025-03-21 17:16:42,414 - DEBUG - Processando página 475/860
+2025-03-21 17:16:42,415 - INFO - Nota de Empenho detectada na página 475: 5030011
+2025-03-21 17:16:42,416 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE7030004.pdf
+2025-03-21 17:16:42,417 - DEBUG - Processando página 476/860
+2025-03-21 17:16:42,417 - INFO - Nota de Empenho detectada na página 476: 5030011
+2025-03-21 17:16:42,418 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE5030011.pdf
+2025-03-21 17:16:42,419 - DEBUG - Processando página 477/860
+2025-03-21 17:16:42,420 - DEBUG - Processando página 478/860
+2025-03-21 17:16:42,421 - DEBUG - Processando página 479/860
+2025-03-21 17:16:42,421 - INFO - Nota de Empenho detectada na página 479: 16020012
+2025-03-21 17:16:42,422 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE5030011_3.pdf
+2025-03-21 17:16:42,423 - DEBUG - Processando página 480/860
+2025-03-21 17:16:42,424 - DEBUG - Página 480 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,425 - DEBUG - Processando página 481/860
+2025-03-21 17:16:42,426 - DEBUG - Processando página 482/860
+2025-03-21 17:16:42,428 - DEBUG - Processando página 483/860
+2025-03-21 17:16:42,430 - DEBUG - Processando página 484/860
+2025-03-21 17:16:42,431 - DEBUG - Processando página 485/860
+2025-03-21 17:16:42,433 - DEBUG - Processando página 486/860
+2025-03-21 17:16:42,434 - DEBUG - Processando página 487/860
+2025-03-21 17:16:42,435 - DEBUG - Processando página 488/860
+2025-03-21 17:16:42,437 - DEBUG - Processando página 489/860
+2025-03-21 17:16:42,438 - DEBUG - Processando página 490/860
+2025-03-21 17:16:42,440 - DEBUG - Processando página 491/860
+2025-03-21 17:16:42,441 - DEBUG - Processando página 492/860
+2025-03-21 17:16:42,442 - DEBUG - Processando página 493/860
+2025-03-21 17:16:42,444 - DEBUG - Processando página 494/860
+2025-03-21 17:16:42,446 - DEBUG - Processando página 495/860
+2025-03-21 17:16:42,447 - DEBUG - Processando página 496/860
+2025-03-21 17:16:42,449 - DEBUG - Processando página 497/860
+2025-03-21 17:16:42,450 - DEBUG - Processando página 498/860
+2025-03-21 17:16:42,452 - DEBUG - Processando página 499/860
+2025-03-21 17:16:42,453 - DEBUG - Processando página 500/860
+2025-03-21 17:16:42,454 - DEBUG - Processando página 501/860
+2025-03-21 17:16:42,456 - DEBUG - Processando página 502/860
+2025-03-21 17:16:42,457 - DEBUG - Processando página 503/860
+2025-03-21 17:16:42,459 - DEBUG - Processando página 504/860
+2025-03-21 17:16:42,460 - DEBUG - Processando página 505/860
+2025-03-21 17:16:42,462 - DEBUG - Processando página 506/860
+2025-03-21 17:16:42,463 - DEBUG - Processando página 507/860
+2025-03-21 17:16:42,465 - DEBUG - Processando página 508/860
+2025-03-21 17:16:42,466 - DEBUG - Processando página 509/860
+2025-03-21 17:16:42,467 - DEBUG - Processando página 510/860
+2025-03-21 17:16:42,469 - DEBUG - Processando página 511/860
+2025-03-21 17:16:42,470 - DEBUG - Processando página 512/860
+2025-03-21 17:16:42,471 - DEBUG - Processando página 513/860
+2025-03-21 17:16:42,473 - DEBUG - Processando página 514/860
+2025-03-21 17:16:42,474 - DEBUG - Processando página 515/860
+2025-03-21 17:16:42,476 - DEBUG - Processando página 516/860
+2025-03-21 17:16:42,477 - DEBUG - Processando página 517/860
+2025-03-21 17:16:42,479 - DEBUG - Processando página 518/860
+2025-03-21 17:16:42,480 - DEBUG - Processando página 519/860
+2025-03-21 17:16:42,481 - DEBUG - Processando página 520/860
+2025-03-21 17:16:42,483 - DEBUG - Processando página 521/860
+2025-03-21 17:16:42,484 - DEBUG - Processando página 522/860
+2025-03-21 17:16:42,486 - DEBUG - Processando página 523/860
+2025-03-21 17:16:42,487 - DEBUG - Processando página 524/860
+2025-03-21 17:16:42,488 - DEBUG - Processando página 525/860
+2025-03-21 17:16:42,489 - DEBUG - Processando página 526/860
+2025-03-21 17:16:42,490 - DEBUG - Processando página 527/860
+2025-03-21 17:16:42,491 - DEBUG - Página 527 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,491 - DEBUG - Processando página 528/860
+2025-03-21 17:16:42,492 - DEBUG - Página 528 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,493 - DEBUG - Processando página 529/860
+2025-03-21 17:16:42,493 - DEBUG - Processando página 530/860
+2025-03-21 17:16:42,494 - DEBUG - Processando página 531/860
+2025-03-21 17:16:42,495 - INFO - Nota de Empenho detectada na página 531: 5030012
+2025-03-21 17:16:42,503 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE16020012.pdf
+2025-03-21 17:16:42,504 - DEBUG - Processando página 532/860
+2025-03-21 17:16:42,505 - DEBUG - Página 532 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,505 - DEBUG - Processando página 533/860
+2025-03-21 17:16:42,506 - DEBUG - Processando página 534/860
+2025-03-21 17:16:42,507 - DEBUG - Processando página 535/860
+2025-03-21 17:16:42,508 - INFO - Nota de Empenho detectada na página 535: 11030015
+2025-03-21 17:16:42,509 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE5030012.pdf
+2025-03-21 17:16:42,510 - DEBUG - Processando página 536/860
+2025-03-21 17:16:42,510 - DEBUG - Página 536 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,511 - DEBUG - Processando página 537/860
+2025-03-21 17:16:42,512 - DEBUG - Processando página 538/860
+2025-03-21 17:16:42,513 - DEBUG - Processando página 539/860
+2025-03-21 17:16:42,513 - INFO - Nota de Empenho detectada na página 539: 30010083
+2025-03-21 17:16:42,515 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE11030015.pdf
+2025-03-21 17:16:42,515 - DEBUG - Processando página 540/860
+2025-03-21 17:16:42,516 - DEBUG - Página 540 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,516 - DEBUG - Processando página 541/860
+2025-03-21 17:16:42,518 - DEBUG - Processando página 542/860
+2025-03-21 17:16:42,518 - DEBUG - Processando página 543/860
+2025-03-21 17:16:42,519 - DEBUG - Processando página 544/860
+2025-03-21 17:16:42,520 - DEBUG - Processando página 545/860
+2025-03-21 17:16:42,521 - DEBUG - Processando página 546/860
+2025-03-21 17:16:42,522 - DEBUG - Processando página 547/860
+2025-03-21 17:16:42,523 - DEBUG - Processando página 548/860
+2025-03-21 17:16:42,524 - DEBUG - Processando página 549/860
+2025-03-21 17:16:42,525 - DEBUG - Processando página 550/860
+2025-03-21 17:16:42,526 - DEBUG - Processando página 551/860
+2025-03-21 17:16:42,526 - DEBUG - Processando página 552/860
+2025-03-21 17:16:42,527 - DEBUG - Processando página 553/860
+2025-03-21 17:16:42,528 - DEBUG - Processando página 554/860
+2025-03-21 17:16:42,529 - DEBUG - Processando página 555/860
+2025-03-21 17:16:42,530 - DEBUG - Processando página 556/860
+2025-03-21 17:16:42,531 - DEBUG - Processando página 557/860
+2025-03-21 17:16:42,532 - DEBUG - Processando página 558/860
+2025-03-21 17:16:42,533 - DEBUG - Processando página 559/860
+2025-03-21 17:16:42,534 - DEBUG - Processando página 560/860
+2025-03-21 17:16:42,535 - DEBUG - Processando página 561/860
+2025-03-21 17:16:42,536 - DEBUG - Processando página 562/860
+2025-03-21 17:16:42,538 - DEBUG - Processando página 563/860
+2025-03-21 17:16:42,539 - DEBUG - Processando página 564/860
+2025-03-21 17:16:42,540 - DEBUG - Processando página 565/860
+2025-03-21 17:16:42,542 - DEBUG - Processando página 566/860
+2025-03-21 17:16:42,543 - DEBUG - Processando página 567/860
+2025-03-21 17:16:42,544 - DEBUG - Processando página 568/860
+2025-03-21 17:16:42,549 - DEBUG - Processando página 569/860
+2025-03-21 17:16:42,550 - DEBUG - Processando página 570/860
+2025-03-21 17:16:42,550 - DEBUG - Processando página 571/860
+2025-03-21 17:16:42,551 - INFO - Nota de Empenho detectada na página 571: 19020008
+2025-03-21 17:16:42,558 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE30010083.pdf
+2025-03-21 17:16:42,559 - DEBUG - Processando página 572/860
+2025-03-21 17:16:42,560 - DEBUG - Página 572 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,560 - DEBUG - Processando página 573/860
+2025-03-21 17:16:42,561 - DEBUG - Processando página 574/860
+2025-03-21 17:16:42,562 - DEBUG - Processando página 575/860
+2025-03-21 17:16:42,563 - DEBUG - Processando página 576/860
+2025-03-21 17:16:42,564 - DEBUG - Processando página 577/860
+2025-03-21 17:16:42,565 - DEBUG - Processando página 578/860
+2025-03-21 17:16:42,565 - INFO - Nota de Empenho detectada na página 578: 22010002
+2025-03-21 17:16:42,567 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE19020008.pdf
+2025-03-21 17:16:42,568 - DEBUG - Processando página 579/860
+2025-03-21 17:16:42,568 - DEBUG - Página 579 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,569 - DEBUG - Processando página 580/860
+2025-03-21 17:16:42,570 - DEBUG - Processando página 581/860
+2025-03-21 17:16:42,571 - DEBUG - Processando página 582/860
+2025-03-21 17:16:42,572 - DEBUG - Processando página 583/860
+2025-03-21 17:16:42,573 - DEBUG - Processando página 584/860
+2025-03-21 17:16:42,574 - DEBUG - Processando página 585/860
+2025-03-21 17:16:42,574 - INFO - Nota de Empenho detectada na página 585: 5010003
+2025-03-21 17:16:42,576 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE22010002.pdf
+2025-03-21 17:16:42,576 - DEBUG - Processando página 586/860
+2025-03-21 17:16:42,577 - DEBUG - Página 586 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,578 - DEBUG - Processando página 587/860
+2025-03-21 17:16:42,578 - DEBUG - Processando página 588/860
+2025-03-21 17:16:42,579 - DEBUG - Processando página 589/860
+2025-03-21 17:16:42,580 - DEBUG - Processando página 590/860
+2025-03-21 17:16:42,581 - DEBUG - Processando página 591/860
+2025-03-21 17:16:42,582 - DEBUG - Processando página 592/860
+2025-03-21 17:16:42,582 - INFO - Nota de Empenho detectada na página 592: 8030016
+2025-03-21 17:16:42,584 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE5010003.pdf
+2025-03-21 17:16:42,585 - DEBUG - Processando página 593/860
+2025-03-21 17:16:42,585 - DEBUG - Página 593 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,586 - DEBUG - Processando página 594/860
+2025-03-21 17:16:42,587 - DEBUG - Processando página 595/860
+2025-03-21 17:16:42,587 - DEBUG - Processando página 596/860
+2025-03-21 17:16:42,588 - INFO - Nota de Empenho detectada na página 596: 11010006
+2025-03-21 17:16:42,589 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE8030016.pdf
+2025-03-21 17:16:42,590 - DEBUG - Processando página 597/860
+2025-03-21 17:16:42,590 - DEBUG - Página 597 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,591 - DEBUG - Processando página 598/860
+2025-03-21 17:16:42,592 - DEBUG - Processando página 599/860
+2025-03-21 17:16:42,593 - DEBUG - Processando página 600/860
+2025-03-21 17:16:42,593 - INFO - Nota de Empenho detectada na página 600: 11010008
+2025-03-21 17:16:42,594 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE11010006_3.pdf
+2025-03-21 17:16:42,595 - DEBUG - Processando página 601/860
+2025-03-21 17:16:42,595 - DEBUG - Página 601 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,596 - DEBUG - Processando página 602/860
+2025-03-21 17:16:42,597 - DEBUG - Processando página 603/860
+2025-03-21 17:16:42,598 - DEBUG - Processando página 604/860
+2025-03-21 17:16:42,599 - INFO - Nota de Empenho detectada na página 604: 13030008
+2025-03-21 17:16:42,600 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE11010008.pdf
+2025-03-21 17:16:42,601 - DEBUG - Processando página 605/860
+2025-03-21 17:16:42,601 - DEBUG - Página 605 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,602 - DEBUG - Processando página 606/860
+2025-03-21 17:16:42,603 - DEBUG - Processando página 607/860
+2025-03-21 17:16:42,603 - DEBUG - Processando página 608/860
+2025-03-21 17:16:42,604 - INFO - Nota de Empenho detectada na página 608: 12030007
+2025-03-21 17:16:42,605 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE13030008.pdf
+2025-03-21 17:16:42,606 - DEBUG - Processando página 609/860
+2025-03-21 17:16:42,607 - DEBUG - Página 609 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,607 - DEBUG - Processando página 610/860
+2025-03-21 17:16:42,608 - DEBUG - Processando página 611/860
+2025-03-21 17:16:42,609 - DEBUG - Processando página 612/860
+2025-03-21 17:16:42,609 - INFO - Nota de Empenho detectada na página 612: 15020012
+2025-03-21 17:16:42,611 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE12030007.pdf
+2025-03-21 17:16:42,612 - DEBUG - Processando página 613/860
+2025-03-21 17:16:42,612 - DEBUG - Página 613 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,613 - DEBUG - Processando página 614/860
+2025-03-21 17:16:42,614 - DEBUG - Processando página 615/860
+2025-03-21 17:16:42,615 - DEBUG - Processando página 616/860
+2025-03-21 17:16:42,616 - DEBUG - Processando página 617/860
+2025-03-21 17:16:42,617 - DEBUG - Processando página 618/860
+2025-03-21 17:16:42,618 - DEBUG - Processando página 619/860
+2025-03-21 17:16:42,618 - INFO - Nota de Empenho detectada na página 619: 16010002
+2025-03-21 17:16:42,620 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE15020012_3.pdf
+2025-03-21 17:16:42,620 - DEBUG - Processando página 620/860
+2025-03-21 17:16:42,621 - DEBUG - Página 620 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,622 - DEBUG - Processando página 621/860
+2025-03-21 17:16:42,622 - DEBUG - Processando página 622/860
+2025-03-21 17:16:42,623 - DEBUG - Processando página 623/860
+2025-03-21 17:16:42,624 - INFO - Nota de Empenho detectada na página 623: 15010002
+2025-03-21 17:16:42,625 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE16010002.pdf
+2025-03-21 17:16:42,625 - DEBUG - Processando página 624/860
+2025-03-21 17:16:42,626 - DEBUG - Página 624 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,627 - DEBUG - Processando página 625/860
+2025-03-21 17:16:42,627 - DEBUG - Processando página 626/860
+2025-03-21 17:16:42,628 - DEBUG - Processando página 627/860
+2025-03-21 17:16:42,629 - INFO - Nota de Empenho detectada na página 627: 11010005
+2025-03-21 17:16:42,630 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE15010002_3.pdf
+2025-03-21 17:16:42,631 - DEBUG - Processando página 628/860
+2025-03-21 17:16:42,631 - DEBUG - Página 628 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,632 - DEBUG - Processando página 629/860
+2025-03-21 17:16:42,633 - DEBUG - Processando página 630/860
+2025-03-21 17:16:42,634 - DEBUG - Processando página 631/860
+2025-03-21 17:16:42,634 - INFO - Nota de Empenho detectada na página 631: 11010004
+2025-03-21 17:16:42,636 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE11010005.pdf
+2025-03-21 17:16:42,637 - DEBUG - Processando página 632/860
+2025-03-21 17:16:42,637 - DEBUG - Página 632 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,638 - DEBUG - Processando página 633/860
+2025-03-21 17:16:42,639 - DEBUG - Processando página 634/860
+2025-03-21 17:16:42,640 - DEBUG - Processando página 635/860
+2025-03-21 17:16:42,640 - INFO - Nota de Empenho detectada na página 635: 30040041
+2025-03-21 17:16:42,641 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE11010004.pdf
+2025-03-21 17:16:42,642 - DEBUG - Processando página 636/860
+2025-03-21 17:16:42,643 - DEBUG - Página 636 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,643 - DEBUG - Processando página 637/860
+2025-03-21 17:16:42,645 - DEBUG - Processando página 638/860
+2025-03-21 17:16:42,645 - DEBUG - Processando página 639/860
+2025-03-21 17:16:42,647 - DEBUG - Processando página 640/860
+2025-03-21 17:16:42,648 - DEBUG - Processando página 641/860
+2025-03-21 17:16:42,649 - DEBUG - Processando página 642/860
+2025-03-21 17:16:42,650 - DEBUG - Processando página 643/860
+2025-03-21 17:16:42,652 - DEBUG - Processando página 644/860
+2025-03-21 17:16:42,653 - DEBUG - Processando página 645/860
+2025-03-21 17:16:42,654 - DEBUG - Processando página 646/860
+2025-03-21 17:16:42,655 - DEBUG - Processando página 647/860
+2025-03-21 17:16:42,656 - DEBUG - Processando página 648/860
+2025-03-21 17:16:42,657 - DEBUG - Processando página 649/860
+2025-03-21 17:16:42,658 - INFO - Nota de Empenho detectada na página 649: 30040029
+2025-03-21 17:16:42,662 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE30040041.pdf
+2025-03-21 17:16:42,663 - DEBUG - Processando página 650/860
+2025-03-21 17:16:42,663 - DEBUG - Página 650 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,664 - DEBUG - Processando página 651/860
+2025-03-21 17:16:42,666 - DEBUG - Processando página 652/860
+2025-03-21 17:16:42,667 - DEBUG - Processando página 653/860
+2025-03-21 17:16:42,668 - DEBUG - Processando página 654/860
+2025-03-21 17:16:42,669 - DEBUG - Processando página 655/860
+2025-03-21 17:16:42,671 - DEBUG - Processando página 656/860
+2025-03-21 17:16:42,672 - DEBUG - Processando página 657/860
+2025-03-21 17:16:42,674 - DEBUG - Processando página 658/860
+2025-03-21 17:16:42,675 - DEBUG - Processando página 659/860
+2025-03-21 17:16:42,677 - DEBUG - Processando página 660/860
+2025-03-21 17:16:42,678 - DEBUG - Processando página 661/860
+2025-03-21 17:16:42,679 - DEBUG - Processando página 662/860
+2025-03-21 17:16:42,681 - DEBUG - Processando página 663/860
+2025-03-21 17:16:42,682 - DEBUG - Processando página 664/860
+2025-03-21 17:16:42,683 - DEBUG - Processando página 665/860
+2025-03-21 17:16:42,683 - DEBUG - Processando página 666/860
+2025-03-21 17:16:42,684 - INFO - Nota de Empenho detectada na página 666: 22010002
+2025-03-21 17:16:42,688 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE30040029.pdf
+2025-03-21 17:16:42,688 - DEBUG - Processando página 667/860
+2025-03-21 17:16:42,689 - DEBUG - Página 667 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,689 - DEBUG - Processando página 668/860
+2025-03-21 17:16:42,690 - DEBUG - Processando página 669/860
+2025-03-21 17:16:42,691 - DEBUG - Processando página 670/860
+2025-03-21 17:16:42,693 - DEBUG - Processando página 671/860
+2025-03-21 17:16:42,694 - DEBUG - Processando página 672/860
+2025-03-21 17:16:42,695 - DEBUG - Processando página 673/860
+2025-03-21 17:16:42,696 - INFO - Nota de Empenho detectada na página 673: 9050018
+2025-03-21 17:16:42,698 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE22010002_3.pdf
+2025-03-21 17:16:42,698 - DEBUG - Processando página 674/860
+2025-03-21 17:16:42,699 - DEBUG - Página 674 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,700 - DEBUG - Processando página 675/860
+2025-03-21 17:16:42,701 - DEBUG - Processando página 676/860
+2025-03-21 17:16:42,702 - DEBUG - Processando página 677/860
+2025-03-21 17:16:42,703 - DEBUG - Processando página 678/860
+2025-03-21 17:16:42,704 - DEBUG - Processando página 679/860
+2025-03-21 17:16:42,704 - DEBUG - Processando página 680/860
+2025-03-21 17:16:42,706 - DEBUG - Processando página 681/860
+2025-03-21 17:16:42,706 - DEBUG - Processando página 682/860
+2025-03-21 17:16:42,707 - DEBUG - Processando página 683/860
+2025-03-21 17:16:42,708 - DEBUG - Processando página 684/860
+2025-03-21 17:16:42,709 - DEBUG - Processando página 685/860
+2025-03-21 17:16:42,710 - DEBUG - Processando página 686/860
+2025-03-21 17:16:42,711 - DEBUG - Processando página 687/860
+2025-03-21 17:16:42,711 - DEBUG - Processando página 688/860
+2025-03-21 17:16:42,712 - DEBUG - Processando página 689/860
+2025-03-21 17:16:42,714 - DEBUG - Processando página 690/860
+2025-03-21 17:16:42,715 - DEBUG - Processando página 691/860
+2025-03-21 17:16:42,716 - DEBUG - Processando página 692/860
+2025-03-21 17:16:42,717 - DEBUG - Processando página 693/860
+2025-03-21 17:16:42,718 - DEBUG - Processando página 694/860
+2025-03-21 17:16:42,720 - DEBUG - Processando página 695/860
+2025-03-21 17:16:42,721 - DEBUG - Processando página 696/860
+2025-03-21 17:16:42,722 - DEBUG - Processando página 697/860
+2025-03-21 17:16:42,723 - DEBUG - Processando página 698/860
+2025-03-21 17:16:42,725 - DEBUG - Processando página 699/860
+2025-03-21 17:16:42,727 - DEBUG - Processando página 700/860
+2025-03-21 17:16:42,727 - DEBUG - Processando página 701/860
+2025-03-21 17:16:42,728 - INFO - Nota de Empenho detectada na página 701: 2050018
+2025-03-21 17:16:42,733 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE9050018.pdf
+2025-03-21 17:16:42,734 - DEBUG - Processando página 702/860
+2025-03-21 17:16:42,734 - DEBUG - Página 702 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,735 - DEBUG - Processando página 703/860
+2025-03-21 17:16:42,737 - DEBUG - Processando página 704/860
+2025-03-21 17:16:42,738 - DEBUG - Processando página 705/860
+2025-03-21 17:16:42,738 - DEBUG - Processando página 706/860
+2025-03-21 17:16:42,739 - DEBUG - Processando página 707/860
+2025-03-21 17:16:42,740 - DEBUG - Processando página 708/860
+2025-03-21 17:16:42,741 - DEBUG - Processando página 709/860
+2025-03-21 17:16:42,742 - DEBUG - Processando página 710/860
+2025-03-21 17:16:42,743 - DEBUG - Processando página 711/860
+2025-03-21 17:16:42,744 - DEBUG - Processando página 712/860
+2025-03-21 17:16:42,745 - DEBUG - Processando página 713/860
+2025-03-21 17:16:42,745 - DEBUG - Processando página 714/860
+2025-03-21 17:16:42,746 - DEBUG - Processando página 715/860
+2025-03-21 17:16:42,747 - DEBUG - Processando página 716/860
+2025-03-21 17:16:42,748 - DEBUG - Processando página 717/860
+2025-03-21 17:16:42,748 - DEBUG - Processando página 718/860
+2025-03-21 17:16:42,750 - DEBUG - Processando página 719/860
+2025-03-21 17:16:42,751 - DEBUG - Processando página 720/860
+2025-03-21 17:16:42,753 - DEBUG - Processando página 721/860
+2025-03-21 17:16:42,759 - DEBUG - Processando página 722/860
+2025-03-21 17:16:42,763 - DEBUG - Processando página 723/860
+2025-03-21 17:16:42,764 - DEBUG - Processando página 724/860
+2025-03-21 17:16:42,765 - DEBUG - Processando página 725/860
+2025-03-21 17:16:42,766 - INFO - Nota de Empenho detectada na página 725: 6050030
+2025-03-21 17:16:42,771 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE2050018.pdf
+2025-03-21 17:16:42,771 - DEBUG - Processando página 726/860
+2025-03-21 17:16:42,772 - DEBUG - Página 726 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,773 - DEBUG - Processando página 727/860
+2025-03-21 17:16:42,775 - DEBUG - Processando página 728/860
+2025-03-21 17:16:42,776 - DEBUG - Processando página 729/860
+2025-03-21 17:16:42,777 - DEBUG - Processando página 730/860
+2025-03-21 17:16:42,778 - DEBUG - Processando página 731/860
+2025-03-21 17:16:42,779 - DEBUG - Processando página 732/860
+2025-03-21 17:16:42,779 - DEBUG - Processando página 733/860
+2025-03-21 17:16:42,781 - DEBUG - Processando página 734/860
+2025-03-21 17:16:42,781 - DEBUG - Processando página 735/860
+2025-03-21 17:16:42,782 - DEBUG - Processando página 736/860
+2025-03-21 17:16:42,783 - DEBUG - Processando página 737/860
+2025-03-21 17:16:42,784 - DEBUG - Processando página 738/860
+2025-03-21 17:16:42,785 - DEBUG - Processando página 739/860
+2025-03-21 17:16:42,786 - DEBUG - Processando página 740/860
+2025-03-21 17:16:42,787 - DEBUG - Processando página 741/860
+2025-03-21 17:16:42,788 - DEBUG - Processando página 742/860
+2025-03-21 17:16:42,788 - DEBUG - Processando página 743/860
+2025-03-21 17:16:42,789 - DEBUG - Processando página 744/860
+2025-03-21 17:16:42,790 - DEBUG - Processando página 745/860
+2025-03-21 17:16:42,792 - DEBUG - Processando página 746/860
+2025-03-21 17:16:42,793 - DEBUG - Processando página 747/860
+2025-03-21 17:16:42,795 - DEBUG - Processando página 748/860
+2025-03-21 17:16:42,796 - DEBUG - Processando página 749/860
+2025-03-21 17:16:42,797 - DEBUG - Processando página 750/860
+2025-03-21 17:16:42,799 - DEBUG - Processando página 751/860
+2025-03-21 17:16:42,800 - DEBUG - Processando página 752/860
+2025-03-21 17:16:42,801 - DEBUG - Processando página 753/860
+2025-03-21 17:16:42,802 - DEBUG - Processando página 754/860
+2025-03-21 17:16:42,804 - DEBUG - Processando página 755/860
+2025-03-21 17:16:42,805 - DEBUG - Processando página 756/860
+2025-03-21 17:16:42,808 - DEBUG - Processando página 757/860
+2025-03-21 17:16:42,808 - DEBUG - Processando página 758/860
+2025-03-21 17:16:42,810 - DEBUG - Processando página 759/860
+2025-03-21 17:16:42,812 - INFO - Nota de Empenho detectada na página 759: 6050031
+2025-03-21 17:16:42,817 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE6050030.pdf
+2025-03-21 17:16:42,818 - DEBUG - Processando página 760/860
+2025-03-21 17:16:42,820 - DEBUG - Página 760 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,821 - DEBUG - Processando página 761/860
+2025-03-21 17:16:42,824 - DEBUG - Processando página 762/860
+2025-03-21 17:16:42,826 - DEBUG - Processando página 763/860
+2025-03-21 17:16:42,827 - DEBUG - Processando página 764/860
+2025-03-21 17:16:42,829 - DEBUG - Processando página 765/860
+2025-03-21 17:16:42,830 - DEBUG - Processando página 766/860
+2025-03-21 17:16:42,830 - DEBUG - Processando página 767/860
+2025-03-21 17:16:42,831 - DEBUG - Processando página 768/860
+2025-03-21 17:16:42,832 - DEBUG - Processando página 769/860
+2025-03-21 17:16:42,833 - DEBUG - Processando página 770/860
+2025-03-21 17:16:42,834 - DEBUG - Processando página 771/860
+2025-03-21 17:16:42,835 - DEBUG - Processando página 772/860
+2025-03-21 17:16:42,836 - DEBUG - Processando página 773/860
+2025-03-21 17:16:42,837 - DEBUG - Processando página 774/860
+2025-03-21 17:16:42,837 - DEBUG - Processando página 775/860
+2025-03-21 17:16:42,838 - DEBUG - Processando página 776/860
+2025-03-21 17:16:42,839 - DEBUG - Processando página 777/860
+2025-03-21 17:16:42,840 - DEBUG - Processando página 778/860
+2025-03-21 17:16:42,841 - DEBUG - Processando página 779/860
+2025-03-21 17:16:42,842 - DEBUG - Processando página 780/860
+2025-03-21 17:16:42,843 - DEBUG - Processando página 781/860
+2025-03-21 17:16:42,844 - DEBUG - Processando página 782/860
+2025-03-21 17:16:42,845 - DEBUG - Processando página 783/860
+2025-03-21 17:16:42,846 - DEBUG - Processando página 784/860
+2025-03-21 17:16:42,847 - DEBUG - Processando página 785/860
+2025-03-21 17:16:42,848 - DEBUG - Processando página 786/860
+2025-03-21 17:16:42,850 - DEBUG - Processando página 787/860
+2025-03-21 17:16:42,851 - DEBUG - Processando página 788/860
+2025-03-21 17:16:42,852 - DEBUG - Processando página 789/860
+2025-03-21 17:16:42,852 - DEBUG - Processando página 790/860
+2025-03-21 17:16:42,855 - DEBUG - Processando página 791/860
+2025-03-21 17:16:42,855 - DEBUG - Processando página 792/860
+2025-03-21 17:16:42,856 - DEBUG - Processando página 793/860
+2025-03-21 17:16:42,857 - INFO - Nota de Empenho detectada na página 793: 6050032
+2025-03-21 17:16:42,863 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE6050031.pdf
+2025-03-21 17:16:42,863 - DEBUG - Processando página 794/860
+2025-03-21 17:16:42,864 - DEBUG - Página 794 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,865 - DEBUG - Processando página 795/860
+2025-03-21 17:16:42,866 - DEBUG - Processando página 796/860
+2025-03-21 17:16:42,868 - DEBUG - Processando página 797/860
+2025-03-21 17:16:42,869 - DEBUG - Processando página 798/860
+2025-03-21 17:16:42,869 - DEBUG - Processando página 799/860
+2025-03-21 17:16:42,870 - DEBUG - Processando página 800/860
+2025-03-21 17:16:42,871 - DEBUG - Processando página 801/860
+2025-03-21 17:16:42,872 - DEBUG - Processando página 802/860
+2025-03-21 17:16:42,873 - DEBUG - Processando página 803/860
+2025-03-21 17:16:42,873 - DEBUG - Processando página 804/860
+2025-03-21 17:16:42,874 - DEBUG - Processando página 805/860
+2025-03-21 17:16:42,875 - DEBUG - Processando página 806/860
+2025-03-21 17:16:42,876 - DEBUG - Processando página 807/860
+2025-03-21 17:16:42,877 - DEBUG - Processando página 808/860
+2025-03-21 17:16:42,878 - DEBUG - Processando página 809/860
+2025-03-21 17:16:42,878 - DEBUG - Processando página 810/860
+2025-03-21 17:16:42,879 - DEBUG - Processando página 811/860
+2025-03-21 17:16:42,880 - DEBUG - Processando página 812/860
+2025-03-21 17:16:42,881 - DEBUG - Processando página 813/860
+2025-03-21 17:16:42,882 - DEBUG - Processando página 814/860
+2025-03-21 17:16:42,883 - DEBUG - Processando página 815/860
+2025-03-21 17:16:42,884 - DEBUG - Processando página 816/860
+2025-03-21 17:16:42,885 - DEBUG - Processando página 817/860
+2025-03-21 17:16:42,886 - DEBUG - Processando página 818/860
+2025-03-21 17:16:42,887 - DEBUG - Processando página 819/860
+2025-03-21 17:16:42,889 - DEBUG - Processando página 820/860
+2025-03-21 17:16:42,890 - DEBUG - Processando página 821/860
+2025-03-21 17:16:42,891 - DEBUG - Processando página 822/860
+2025-03-21 17:16:42,892 - DEBUG - Processando página 823/860
+2025-03-21 17:16:42,893 - DEBUG - Processando página 824/860
+2025-03-21 17:16:42,895 - DEBUG - Processando página 825/860
+2025-03-21 17:16:42,896 - DEBUG - Processando página 826/860
+2025-03-21 17:16:42,897 - DEBUG - Processando página 827/860
+2025-03-21 17:16:42,898 - INFO - Nota de Empenho detectada na página 827: 6050033
+2025-03-21 17:16:42,904 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE6050032.pdf
+2025-03-21 17:16:42,905 - DEBUG - Processando página 828/860
+2025-03-21 17:16:42,905 - DEBUG - Página 828 ignorada (Nota de Liquidação detectada)
+2025-03-21 17:16:42,906 - DEBUG - Processando página 829/860
+2025-03-21 17:16:42,907 - DEBUG - Processando página 830/860
+2025-03-21 17:16:42,908 - DEBUG - Processando página 831/860
+2025-03-21 17:16:42,909 - DEBUG - Processando página 832/860
+2025-03-21 17:16:42,910 - DEBUG - Processando página 833/860
+2025-03-21 17:16:42,911 - DEBUG - Processando página 834/860
+2025-03-21 17:16:42,912 - DEBUG - Processando página 835/860
+2025-03-21 17:16:42,913 - DEBUG - Processando página 836/860
+2025-03-21 17:16:42,914 - DEBUG - Processando página 837/860
+2025-03-21 17:16:42,915 - DEBUG - Processando página 838/860
+2025-03-21 17:16:42,916 - DEBUG - Processando página 839/860
+2025-03-21 17:16:42,917 - DEBUG - Processando página 840/860
+2025-03-21 17:16:42,918 - DEBUG - Processando página 841/860
+2025-03-21 17:16:42,918 - DEBUG - Processando página 842/860
+2025-03-21 17:16:42,919 - DEBUG - Processando página 843/860
+2025-03-21 17:16:42,920 - DEBUG - Processando página 844/860
+2025-03-21 17:16:42,920 - DEBUG - Processando página 845/860
+2025-03-21 17:16:42,921 - DEBUG - Processando página 846/860
+2025-03-21 17:16:42,922 - DEBUG - Processando página 847/860
+2025-03-21 17:16:42,923 - DEBUG - Processando página 848/860
+2025-03-21 17:16:42,925 - DEBUG - Processando página 849/860
+2025-03-21 17:16:42,926 - DEBUG - Processando página 850/860
+2025-03-21 17:16:42,927 - DEBUG - Processando página 851/860
+2025-03-21 17:16:42,928 - DEBUG - Processando página 852/860
+2025-03-21 17:16:42,929 - DEBUG - Processando página 853/860
+2025-03-21 17:16:42,931 - DEBUG - Processando página 854/860
+2025-03-21 17:16:42,932 - DEBUG - Processando página 855/860
+2025-03-21 17:16:42,933 - DEBUG - Processando página 856/860
+2025-03-21 17:16:42,934 - DEBUG - Processando página 857/860
+2025-03-21 17:16:42,935 - DEBUG - Processando página 858/860
+2025-03-21 17:16:42,937 - DEBUG - Processando página 859/860
+2025-03-21 17:16:42,938 - DEBUG - Processando página 860/860
+2025-03-21 17:16:42,946 - INFO - Arquivo salvo com sucesso: D:/ne/NE ADM\NE6050033.pdf

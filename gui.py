@@ -104,6 +104,18 @@ class MainWindow:
                                        style='Custom.TButton',
                                        command=self.process_pdf)
         self.process_button.pack(pady=30)
+        
+        # Botão para abrir o log
+        ttk.Button(content_frame,
+                  text="Ver Log",
+                  style='Custom.TButton',
+                  command=self.open_log).pack(pady=10)
+        
+        # Botão para limpar o log
+        ttk.Button(content_frame,
+                  text="Limpar Log",
+                  style='Custom.TButton',
+                  command=self.clear_log).pack(pady=10)
 
     def update_progress(self, value):
         self.progress_var.set(value)
@@ -136,3 +148,21 @@ class MainWindow:
         os.startfile(output_folder)
         
         tk.messagebox.showinfo("Sucesso", "Processamento concluído!")
+    
+    def open_log(self):
+        # Tenta abrir o arquivo de log
+        log_file = "processamento_pdf.log"
+        if os.path.exists(log_file):
+            os.startfile(log_file)
+        else:
+            tk.messagebox.showerror("Erro", "Arquivo de log não encontrado.")
+    
+    def clear_log(self):
+        # Limpar o conteúdo do arquivo de log
+        log_file = "processamento_pdf.log"
+        try:
+            with open(log_file, 'w'):  # 'w' apaga o conteúdo do arquivo
+                pass
+            tk.messagebox.showinfo("Sucesso", "Log limpo com sucesso!")
+        except Exception as e:
+            tk.messagebox.showerror("Erro", f"Erro ao limpar o log: {e}")
